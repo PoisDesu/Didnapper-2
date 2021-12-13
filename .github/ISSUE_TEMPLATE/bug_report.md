@@ -27,5 +27,9 @@ If applicable, add screenshots to help explain your problem, or a video if more 
 **Input method**
 If relevant, note the input method you were using (mouse, keyboard or controller). If a controller, specify what kind of controller (e.g. Xbox One controller)
 
+**Error logs**
+Attach the `crashlogs.txt` and `logs.txt` files if they exist.
+They can be found in the game's folder, within `logs`, at the same level as the save folder. (On Windows, that is under the `www` folder)
+
 **Additional context**
 Add any other context about the problem here.
