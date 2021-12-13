@@ -32,5 +32,8 @@ If relevant, note the input method you were using (mouse, keyboard or controller
 Attach the `crashlogs.txt` and `logs.txt` files if they exist.
 They can be found in the game's folder, within `logs`, at the same level as the save folder. (On Windows, that is under the `www` folder)
 
+**Save file**
+Attach the save file you experienced the bug in, it can be found in the game's folder, within `save`. (On Windows, that is under the `www` folder)
+
 **Additional context**
 Add any other context about the problem here.
