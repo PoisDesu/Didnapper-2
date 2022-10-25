@@ -1,3 +1,4 @@
 # Didnapper 2
 
-This is the official bug tracker for Didnapper 2. You can head to the [issues](https://github.com/PoisDesu/Didnapper-2/issues) tab to report a bug, remember to check if your bug hasn't already been reported first.
+This *was* the official bug tracker for Didnapper 2. This repository is now archived.
+To report bugs, you can now do so on the official discord server at https://discord.gg/xXDgYPV
